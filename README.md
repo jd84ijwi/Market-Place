@@ -4,6 +4,6 @@ A simple Market Place web application built using Python, HTML, and CSS. Users c
 
 ## Technologies
 
-Python – Back-end functionality
-HTML – Page structure
-CSS – Styling and layout
+Python  
+HTML 
+CSS  
