@@ -4,12 +4,16 @@ A Market Place web application built using Python, HTML, and CSS. Users can brow
 
 ## Technologies
 
-Python  
+Python 
+
 HTML 
+
 CSS  
 
 ## Features
 Python
+
 Django
+
 HTML
  
